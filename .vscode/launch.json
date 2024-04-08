@@ -1,0 +1,27 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "xchart",
+      "request": "launch",
+      "mainClass": "xchart",
+      "projectName": "CPSC 331_afe96108"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "CPSC 331_afe96108"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/Ali/Desktop/CPSC 331/Assignment3/PDF/source-",
+      "program": "/Users/Ali/Desktop/CPSC 331/Assignment3/PDF/source-/build/Debug/outDebug"
+    }
+  ]
+}

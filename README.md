@@ -1,4 +1,4 @@
-Data Structures, Algorithms, and Their Analysis
+##Data Structures, Algorithms, and Their Analysis
 
 Fundamental data structures, including arrays, lists, stacks, queues, trees, hash tables, and graphs. Algorithms for searching and sorting. 
 Introduction to the correctness and analysis of algorithms. 
